@@ -1,7 +1,8 @@
 Nagios sample configuration
+==============================
 
-In this directory are stored some sample files that could be used to configure
-and monitor a geOrchestra instance.
+In this directory are stored some sample files which can be used to configure
+and monitor a geOrchestra instance with Nagios.
 
 You need to understand 4 concepts of Nagios:
 
